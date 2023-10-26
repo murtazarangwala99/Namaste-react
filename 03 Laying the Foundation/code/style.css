@@ -1,0 +1,36 @@
+*{
+    /* background-color: cadetblue; */
+    color: blue;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.navbar{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 150px;
+    cursor: pointer;
+}
+.search{
+    margin: 25px;
+}
+.searchbar{
+    width: 180px;
+    padding: 3px;
+}
+.sub-btn{
+    padding: 3px;
+    margin: 5px;
+    cursor: pointer;
+}
+.person{
+    margin: 15px;
+}
+.personimg{
+    width: 100px;
+    cursor: pointer;
+}
