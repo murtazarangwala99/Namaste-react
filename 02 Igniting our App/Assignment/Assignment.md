@@ -89,4 +89,8 @@
 
 ### Read About : caret(^) and tilda(~)
 
+![NPM Versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
+
 ### Read about Script types in HTML(MDN)
+
+![Script Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type)
