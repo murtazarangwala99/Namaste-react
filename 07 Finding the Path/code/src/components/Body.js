@@ -12,10 +12,8 @@ const Body = () => {
     fetchData();
   }, []);
 
-  console.log("UseState:", useState());
-
   const fetchData = async () => {
-    const data = await fetch(API_LINK);
+    const data = await fetch("https://corsproxy.io/?" + API_LINK);
     const json = await data.json();
     // console.log(json);
 
@@ -27,10 +25,11 @@ const Body = () => {
     setList(restaurant_list);
     setFilterList(restaurant_list);
   };
+  if (list.length === 0) {
+    return <Shimmer />;
+  }
 
-  return list.length === 0 ? (
-    <Shimmer />
-  ) : (
+  return (
     <div className="body">
       <div className="filter">
         <button
