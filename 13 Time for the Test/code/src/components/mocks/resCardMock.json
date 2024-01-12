@@ -1,0 +1,58 @@
+
+{
+    "id": "563098",
+    "name": "URBAN EGG",
+    "cloudinaryImageId": "xqxmcstn754z6elymsuu",
+    "locality": "Ghodod Road",
+    "areaName": "Athwa",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "Chinese",
+        "Ice Cream",
+        "Pizzas",
+        "Biryani"
+    ],
+    "avgRating": 4.5,
+    "parentId": "338710",
+    "avgRatingString": "4.5",
+    "totalRatingsString": "1K+",
+    "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2024-01-12 23:59:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
+
